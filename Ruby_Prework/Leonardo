@@ -1,0 +1,7 @@
+name = "Leonardo"
+Saludo (name)
+
+def saludo (name)
+puts "Hola #{name}"
+end
+
